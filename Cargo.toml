@@ -2,6 +2,6 @@
 
 members = [
     "grpc-web-client",
-    "test/test-client",
-    "test/test-server",
+    # "test/test-client",
+    # "test/test-server",
 ]
